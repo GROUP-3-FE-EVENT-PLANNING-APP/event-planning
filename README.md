@@ -2,9 +2,11 @@
 
 ### Deployment
 
-
 [Event Planning](https://kapangih-event.vercel.app/)
 
+### Event Planning 
+
+![webpreview](https://user-images.githubusercontent.com/105417100/177900463-137d2c23-dab0-4b37-8a6c-0b2d6578c9c2.png)
 
 
 ### Division of task
